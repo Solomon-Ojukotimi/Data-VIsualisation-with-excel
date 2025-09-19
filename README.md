@@ -1,6 +1,6 @@
 # Data-VIsualisation-with-excel
 About this project
-This is a simple Sales Dashboard for an imaginary Coffee shop created in Excel, it  provides interactive,  visually engaging and a fundamental insights into the sales activities and trends of this organisation, providing key performance indicators such as average price of products, revenue earned, relationship between time and products sales.
+This is a simple Sales Report for an imaginary Coffee shop created in Excel, it  provides interactive,  visually engaging and a fundamental insights into the sales activities and trends of this organisation, providing key performance indicators such as average price of products, revenue earned, relationship between time and products sales. Attached to this readme are pictures of the visualization and an excel file containing all about the project for a purview
 
 **Key Tasks Performed**_
 
